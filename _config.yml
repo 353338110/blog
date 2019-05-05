@@ -1,12 +1,12 @@
-title: John Smith
+title: 大涵哥
 description: My Personal Blog
-author: John Smith
+author: U大涵哥
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/353338110
+about: 边走边学
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://github.com/353338110/blog"
+url: "https://github.com/353338110/blog"
 
 allowsearch: true
 
